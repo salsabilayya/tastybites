@@ -1,0 +1,47 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.jumbotron{
+    padding-top: 13rem;
+    /* margin-left: 40px; */
+    padding-bottom: 8rem;
+    background: url(img/cromboloni.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left: 0;
+    margin-right: 0;
+}
+.jumbotron img{
+    margin-left: 20px;
+    margin-right: 8px;
+}
+.jumbotron h1{
+    color: white;
+}
+.jumbotron p .lead{
+    color: white;
+}
+.jumbotron p{
+    color: white;
+}
+section {
+    padding-top: 8rem;
+}
+
+/* Untuk layar yang lebih kecil, atur gambar dan teks berjalan satu per satu */
+@media (max-width: 768px) {
+    .jumbotron {
+      display: flex;
+      flex-direction: column; /* Posisikan gambar dan teks berjalan satu per satu */
+      align-items: center; /* Pusatkan elemen di tengah */
+      text-align: center; /* Pusatkan teks */
+    }
+  
+    .jumbotron img {
+      margin-bottom: 20px; /* Tambahkan ruang di bawah gambar */
+      float: none; /* Hapus float */
+    }
+  }
+  

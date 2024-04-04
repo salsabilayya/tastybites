@@ -1,0 +1,22 @@
+*{
+    font-family: 'Poppins', sans-serif;
+} 
+
+body{
+    padding-top: 13rem;
+    padding-left: 22rem;
+    padding-right: 22rem;
+    /* background: url(img/cromboloni.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; */
+}
+
+header{
+    color: #C15B75;
+    font-size: 30px;
+    text-align: center;
+    padding: 0 0 18px 0;
+}
+
