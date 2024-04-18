@@ -30,6 +30,8 @@ section {
     padding-top: 8rem;
 }
 
+
+
 /* Untuk layar yang lebih kecil, atur gambar dan teks berjalan satu per satu */
 @media (max-width: 768px) {
     .jumbotron {

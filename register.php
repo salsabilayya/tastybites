@@ -26,16 +26,10 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-            <a class="nav-link active" aria-current="page" href="index.php/#home">Beranda</a>
-            <a class="nav-link" href="#tentang">Tentang</a>
-            <a class="nav-link" href="#resep">Resep</a>
+            <a class="nav-link active" aria-current="page" href="index.php">Beranda</a>
             <a class="nav-link" href="login.php">Masuk</a>
         </div>
         </div>
-        <form class="d-flex">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
-        </form>
     </div>
     </nav>
 <!-- END NAVBAR -->

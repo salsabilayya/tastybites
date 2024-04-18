@@ -63,10 +63,10 @@
       </div>
       <div class="row justify-content-center fs-5 text-center">
         <div class="col-md-4">
-          <p>Hi! Namaku Tsurayya Salsabila. Lebih akrab dipanggil Ayya. Aku punya ketertarikan pada dunia desain/editing.</p>
+          <p>Tasty Bites adalah destinasi online untuk para penggemar makanan yang mencari inspirasi kuliner yang lezat dan mudah. Di sini, kami menyajikan koleksi resep praktis dan kreatif untuk setiap kesempatan, mulai dari hidangan sehari-hari hingga pesta khusus.</p>
         </div>
         <div class="col-md-4">
-          <p>Aku pernah menjadi admin editing untuk instagram kelas. Jadi kerjaanku adalah buat konten untuk feeds instagram, dan juga konten instastory.</p>
+          <p>Dengan panduan langkah demi langkah yang jelas dan tips ahli, Tasty Bites membantu Anda menjelajahi dunia kuliner dengan percaya diri dan kreativitas. Sambutlah petualangan rasa baru dan temukan kelezatan di setiap gigitan dengan Tasty Bites!</p>
         </div>
       </div>
     </div>
@@ -117,7 +117,7 @@
         </div>  
         </div>
       </div>
-      <div class="row">
+      <div class="row mb-5">
         <div class="col text-center pt-2">
         <a href="login.php" class="btn btn-dark" style="background-color: #C15B75;">Temukan lebih banyak resep disini!</a> 
         </div>
@@ -127,8 +127,8 @@
 <!-- END RESEP -->
 
 <!-- START FOOTER -->
-<footer style="background-color: #F1D5DB;" class="text-white text-center pb-2" >
-    <p>Created with <i class="bi bi-heart-fill"></i> by <a href="https://www.instagram.com/abilaayya" class="text-white fw-bold">Tsurayya Salsabila</a></p>
+<footer style="background-color: #F1D5DB;" class="text-dark text-center pb-2" >
+    <p>Created with <i class="bi bi-heart-fill"></i> by <a href="https://www.instagram.com/abilaayya" class="text-dark fw-bold">Tasty Bites</a></p>
   </footer>
 <!-- END FOOTER -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
